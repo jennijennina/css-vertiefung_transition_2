@@ -18,3 +18,6 @@ Bitte schaue dir die Animation in der Ergebnisvorschau an.
 
 Hier findest du mehrere Optionen für die CSS Eigenschaft “transition-timing-function”:
 https://easings.net/ 
+
+<img width="954" alt="Screenshot 2022-08-29 at 23 25 45" src="https://user-images.githubusercontent.com/110846379/187302047-31d37fe6-0138-41cb-a657-66f75ce4d4fe.png">
+<img width="893" alt="Screenshot 2022-08-29 at 23 25 54" src="https://user-images.githubusercontent.com/110846379/187302053-78ac884d-0fc0-4dc9-869d-85bbfdb513ff.png">
